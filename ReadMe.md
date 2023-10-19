@@ -1,8 +1,8 @@
 # Terraform Apache
 
-#### Deploy a Jenkins instance via terraform
+#### Deploy an Apache server via terraform
 
-##Steps
+## Steps
 
 * Run Aws configure with your access key and secret key Or add it to your provider settings
 * Run `terraform init` to initialized the terraform
