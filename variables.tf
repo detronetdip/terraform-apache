@@ -26,8 +26,8 @@ variable "owner_tag" {
   default = {
     Terraform = "true"
     Environment = "dev"
-    Owner = "ayondip-devops-monk"
-    Name = "terraform-jenkins"
+    Owner = "devops-monk"
+    Name = "terraform-apache"
   }
 }
 
